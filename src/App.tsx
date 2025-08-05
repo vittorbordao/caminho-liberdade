@@ -65,6 +65,10 @@ function App() {
               </button>
             </nav>
             <button className="bg-gradient-to-r from-emerald-500 to-blue-500 hover:from-emerald-600 hover:to-blue-600 px-6 py-2 rounded-full font-semibold transition-all duration-300 transform hover:scale-105">
+              <button
+  onClick={() => window.open("https://go.hotmart.com/M99836761H?dp=1", "_blank")}
+  className="bg-blue-500 text-white px-4 py-2 rounded"
+>
               Comprar Agora
             </button>
           </div>
