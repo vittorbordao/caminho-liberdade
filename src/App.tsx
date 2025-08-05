@@ -24,7 +24,7 @@ export default function App() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
               <button
-                onClick={() => window.open("https://go.hotmart.com/M99836761H?dp=1", "_blank")}
+                onClick={() => window.open("https://go.hotmart.com/M99636716H?dp=1", "_blank")}
                 className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-bold py-4 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 shadow-2xl"
               >
                 Comprar Agora
@@ -274,7 +274,7 @@ export default function App() {
               </div>
               
               <button
-                onClick={() => window.open("https://go.hotmart.com/M99836761H?dp=1", "_blank")}
+                onClick={() => window.open("https://go.hotmart.com/M99636716H?dp=1", "_blank")}
                 className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-bold py-4 px-12 rounded-full text-xl transition-all duration-300 transform hover:scale-105 shadow-2xl"
               >
                 Comprar Agora
@@ -341,7 +341,7 @@ export default function App() {
             Sua liberdade financeira e pessoal está a um clique de distância.
           </p>
           <button
-            onClick={() => window.open("https://go.hotmart.com/M99836761H?dp=1", "_blank")}
+            onClick={() => window.open("https://go.hotmart.com/M99636716H?dp=1", "_blank")}
             className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-bold py-4 px-12 rounded-full text-xl transition-all duration-300 transform hover:scale-105 shadow-2xl"
           >
             Comprar Agora
