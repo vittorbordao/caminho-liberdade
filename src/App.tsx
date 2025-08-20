@@ -456,9 +456,9 @@ function App() {
                 </div>
                 <div className="text-center">
                   <span className="text-5xl font-bold bg-gradient-to-r from-emerald-400 to-blue-400 bg-clip-text text-transparent">
-                    R$ 47
+                    R$ 39
                   </span>
-                  <span className="text-gray-300 text-lg">,00</span>
+                  <span className="text-gray-300 text-lg">,90</span>
                 </div>
                 <p className="text-gray-400 text-sm">Oferta por tempo limitado</p>
               </div>
@@ -557,9 +557,9 @@ function App() {
 
               <div className="bg-gradient-to-r from-gray-800 to-gray-900 p-6 rounded-2xl border border-gray-700">
                 <p className="text-gray-300 italic text-lg leading-relaxed">
-                  "Minha missão é simples: ajudar você a descobrir seu potencial máximo e criar 
+                  Minha missão é simples: ajudar você a descobrir seu potencial máximo e criar 
                   uma vida de abundância, equilíbrio e realização. Cada página deste ebook foi 
-                  escrita pensando na sua transformação real."
+                  escrita pensando na sua transformação real.
                 </p>
                 <div className="flex items-center space-x-3 mt-4">
                   <div className="w-12 h-12 bg-gradient-to-r from-emerald-500 to-blue-500 rounded-full flex items-center justify-center">
@@ -613,8 +613,8 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                "Em apenas 3 meses aplicando os métodos do Vitor, consegui quitar todas as minhas 
-                dívidas e ainda criar uma reserva de emergência. Minha vida financeira nunca esteve tão organizada!"
+                Em apenas 3 meses aplicando os métodos do Vitor, consegui quitar todas as minhas 
+                dívidas e ainda criar uma reserva de emergência. Minha vida financeira nunca esteve tão organizada!
               </p>
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-gradient-to-r from-emerald-500 to-blue-500 rounded-full flex items-center justify-center">
@@ -634,8 +634,8 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                "O capítulo sobre mindset mudou completamente minha perspectiva. Hoje tenho uma mentalidade 
-                de abundância e meus resultados melhoraram em todas as áreas da vida."
+                O capítulo sobre mindset mudou completamente minha perspectiva. Hoje tenho uma mentalidade 
+                de abundância e meus resultados melhoraram em todas as áreas da vida.
               </p>
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
@@ -655,8 +655,8 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                "Finalmente encontrei o equilíbrio entre trabalho e vida pessoal. As técnicas de gestão 
-                de tempo do ebook são simplesmente revolucionárias!"
+                Finalmente encontrei o equilíbrio entre trabalho e vida pessoal. As técnicas de gestão 
+                de tempo do ebook são simplesmente revolucionárias!
               </p>
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-gradient-to-r from-orange-500 to-red-500 rounded-full flex items-center justify-center">
@@ -676,8 +676,8 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                "Saí de uma situação de desespero financeiro para ter minha própria empresa em 8 meses. 
-                Este ebook literalmente salvou minha vida!"
+                Saí de uma situação de desespero financeiro para ter minha própria empresa em 8 meses. 
+                Este ebook literalmente salvou minha vida!
               </p>
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full flex items-center justify-center">
@@ -697,8 +697,8 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                "As estratégias de investimento me ajudaram a multiplicar minha renda. Hoje tenho 
-                múltiplas fontes de renda passiva graças aos ensinamentos do Vitor."
+                As estratégias de investimento me ajudaram a multiplicar minha renda. Hoje tenho 
+                múltiplas fontes de renda passiva graças aos ensinamentos do Vitor.
               </p>
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-gradient-to-r from-green-500 to-emerald-500 rounded-full flex items-center justify-center">
@@ -718,8 +718,8 @@ function App() {
                 ))}
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                "Meu casamento estava em crise por causa do estresse financeiro. Hoje somos mais unidos 
-                que nunca e nossa situação financeira está estável."
+                Meu casamento estava em crise por causa do estresse financeiro. Hoje somos mais unidos 
+                que nunca e nossa situação financeira está estável.
               </p>
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-gradient-to-r from-pink-500 to-purple-500 rounded-full flex items-center justify-center">
