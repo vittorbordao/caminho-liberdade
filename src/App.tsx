@@ -86,7 +86,7 @@ function App() {
               <div className="space-y-4">
                 <div className="inline-flex items-center space-x-2 bg-gradient-to-r from-emerald-500/20 to-blue-500/20 px-4 py-2 rounded-full border border-emerald-500/30">
                   <Sparkles className="w-4 h-4 text-emerald-400" />
-                  <span className="text-sm font-medium text-emerald-300">Mais de 70 páginas de conteúdo</span>
+                  <span className="text-sm font-medium text-emerald-300">Mais de 40 páginas de conteúdo</span>
                 </div>
                 <h1 className="text-5xl lg:text-6xl font-bold leading-tight">
                   <span className="bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
@@ -876,7 +876,7 @@ function App() {
                 </div>
                 <div className="text-center">
                   <span className="text-5xl font-bold bg-gradient-to-r from-emerald-400 to-blue-400 bg-clip-text text-transparent">
-                    R$ 47
+                    R$ 39
                   </span>
                   <span className="text-gray-300 text-lg">,00</span>
                 </div>
