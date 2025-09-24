@@ -878,7 +878,7 @@ function App() {
                   <span className="text-5xl font-bold bg-gradient-to-r from-emerald-400 to-blue-400 bg-clip-text text-transparent">
                     R$ 39
                   </span>
-                  <span className="text-gray-300 text-lg">,00</span>
+                  <span className="text-gray-300 text-lg">,90</span>
                 </div>
                 <p className="text-gray-400 text-sm">Menos que o preço de um jantar</p>
               </div>
